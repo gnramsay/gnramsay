@@ -5,5 +5,3 @@ This Repository mainly contains private stuff I am working on personally, though
 For my Public Repos, see [@seapagan](https://github.com/seapagan)
 
 My portfolio website : https://www.gnramsay.com
-
-Detailed list of my projects : https://www.grantramsay.dev
